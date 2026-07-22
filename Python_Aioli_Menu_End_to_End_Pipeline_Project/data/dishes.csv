@@ -1,0 +1,205 @@
+dish_id,dish_name,dish_size,unit,price,category,location
+1,AïOLI BEEF TATAR 2.0,350,,45.99,Menu główne,Warszawa_Świętokrzyska
+2,AïOLI VEGE TATAR,330,g,37.99,Menu główne,Warszawa_Świętokrzyska
+3,SWEET POTATO CHIPS,125,g,29.99,Menu główne,Warszawa_Świętokrzyska
+4,ROASTED CABBAGE,300,g,32.99,Menu główne,Warszawa_Świętokrzyska
+5,TEMPURA CRISPY WINGS,450,g,39.99,Menu główne,Warszawa_Świętokrzyska
+6,LOADED FRIES & BEEF BITES,225,g,42.99,Menu główne,Warszawa_Świętokrzyska
+7,BLACK GARLIC SHRIMPS,220,g,52.99,Menu główne,Warszawa_Świętokrzyska
+8,BUTTER WINE SHRIMPS,220,g,49.99,Menu główne,Warszawa_Świętokrzyska
+9,KATAIFI SHRIMPS,230,g,52.99,Menu główne,Warszawa_Świętokrzyska
+10,AïOLI SHARING MEAT,600,g,79.99,Menu główne,Warszawa_Świętokrzyska
+11,AïOLI SHARING VEGE,540,g,59.99,Menu główne,Warszawa_Świętokrzyska
+12,AïOLI SHARING SEAFOOD,570,g,129.99,Menu główne,Warszawa_Świętokrzyska
+13,CREMA DI POMODORO,450,g,22.99,Menu główne,Warszawa_Świętokrzyska
+14,ZUPA DNIA,450,ml,22.99,Menu główne,Warszawa_Świętokrzyska
+15,AïOLI BURGER,520,g,49.99,Menu główne,Warszawa_Świętokrzyska
+16,SMASH BURGER,310,g,46.99,Menu główne,Warszawa_Świętokrzyska
+17,PHILLY CHEESESTEAK BURGER,600,g,59.99,Menu główne,Warszawa_Świętokrzyska
+18,REUBEN SANDWICH,520,g,52.99,Menu główne,Warszawa_Świętokrzyska
+19,KOREAN FRIED CHICKEN BURGER,550,g,47.99,Menu główne,Warszawa_Świętokrzyska
+20,MARGHERITA,38,cm,34.99,Menu główne,Warszawa_Świętokrzyska
+21,TARTUFO & SWEET POTATO CHIPS,38,cm,38.99,Menu główne,Warszawa_Świętokrzyska
+22,BURRATA & COTTO,38,cm,48.99,Menu główne,Warszawa_Świętokrzyska
+23,NDUJA & CARAMELIZED ONION,38,cm,52.99,Menu główne,Warszawa_Świętokrzyska
+24,TARTUFO & COTTO BIANCA,38,cm,49.99,Menu główne,Warszawa_Świętokrzyska
+25,SALAMI & CHILLI HONEY,38,cm,48.99,Menu główne,Warszawa_Świętokrzyska
+26,KIMCHI PIZZA,38,cm,47.99,Menu główne,Warszawa_Świętokrzyska
+27,PROSCIUTTO CRUDO,38,cm,49.99,Menu główne,Warszawa_Świętokrzyska
+28,QUATTRO FROMAGGI,38,cm,44.99,Menu główne,Warszawa_Świętokrzyska
+29,AïOLI SEASONAL STEAK,450,g,145.99,Menu główne,Warszawa_Świętokrzyska
+30,CLASSIC NY STEAK,450,g,85.99,Menu główne,Warszawa_Świętokrzyska
+31,GREEN PEPPER STEAK,420,g,89.99,Menu główne,Warszawa_Świętokrzyska
+32,SURF & TURF 2.0,525,g,97.99,Menu główne,Warszawa_Świętokrzyska
+33,HACHE STEAK,500,g,75.99,Menu główne,Warszawa_Świętokrzyska
+34,CHICKEN & PESTO MAFALDINE,300,g,46.99,Menu główne,Warszawa_Świętokrzyska
+35,SALVIA BUTTER RAVIOLI,190,g,44.99,Menu główne,Warszawa_Świętokrzyska
+36,GREEN UDON,390,g,42.99,Menu główne,Warszawa_Świętokrzyska
+37,GNOCCHI AL TARTUFO,380,g,39.99,Menu główne,Warszawa_Świętokrzyska
+38,TAGLIOLINI & SHRIMPS,364,g,56.99,Menu główne,Warszawa_Świętokrzyska
+39,CAESAR,620,G,34.99,Menu główne,Warszawa_Świętokrzyska
+40,ASIAN CHICKEN BOWL,360,g,39.99,Menu główne,Warszawa_Świętokrzyska
+41,PASTRAMI SALAD,370,g,45.99,Menu główne,Warszawa_Świętokrzyska
+42,AïOLI BREAKKIE PIZZA,28,cm,32.99,Śniadania,Warszawa_Świętokrzyska
+43,AïOLI BREAKKIE PIZZA VEGE,28,cm,28.99,Śniadania,Warszawa_Świętokrzyska
+44,TRUFFLE SCRAMBLE TOAST,310,g,29.99,Śniadania,Warszawa_Świętokrzyska
+45,TURKISH EGGS,340,g,32.99,Śniadania,Warszawa_Świętokrzyska
+46,BACON SANDWICH,400,g,34.99,Śniadania,Warszawa_Świętokrzyska
+47,ENGLISH BREAKFAST,550,g,38.99,Śniadania,Warszawa_Świętokrzyska
+48,HUEVOS RANCHEROS,430,g,36.99,Śniadania,Warszawa_Świętokrzyska
+49,SALMON TOAST,310,g,42.99,Śniadania,Warszawa_Świętokrzyska
+50,AVOCADO TOAST,330,g,34.99,Śniadania,Warszawa_Świętokrzyska
+51,BENEDICT ALLA CRISPY PROSCIUTTO,315,g,35.99,Śniadania,Warszawa_Świętokrzyska
+52,SYRNIKI VANILLA & RHUBARB,385,g,34.99,Śniadania,Warszawa_Świętokrzyska
+53,AïOLI BEEF TATAR 2.0,350,,45.99,Menu główne,Warszawa_Chmielna
+54,AïOLI VEGE TATAR,330,g,37.99,Menu główne,Warszawa_Chmielna
+55,SWEET POTATO CHIPS,125,g,29.99,Menu główne,Warszawa_Chmielna
+56,ROASTED CABBAGE,300,g,32.99,Menu główne,Warszawa_Chmielna
+57,TEMPURA CRISPY WINGS,450,g,39.99,Menu główne,Warszawa_Chmielna
+58,LOADED FRIES & BEEF BITES,225,g,42.99,Menu główne,Warszawa_Chmielna
+59,BLACK GARLIC SHRIMPS,220,g,52.99,Menu główne,Warszawa_Chmielna
+60,BUTTER WINE SHRIMPS,220,g,49.99,Menu główne,Warszawa_Chmielna
+61,KATAIFI SHRIMPS,230,g,52.99,Menu główne,Warszawa_Chmielna
+62,AïOLI SHARING MEAT,600,g,79.99,Menu główne,Warszawa_Chmielna
+63,AïOLI SHARING VEGE,540,g,59.99,Menu główne,Warszawa_Chmielna
+64,AïOLI SHARING SEAFOOD,570,g,129.99,Menu główne,Warszawa_Chmielna
+65,CREMA DI POMODORO,450,g,22.99,Menu główne,Warszawa_Chmielna
+66,ZUPA DNIA,450,ml,22.99,Menu główne,Warszawa_Chmielna
+67,AïOLI BURGER,520,g,49.99,Menu główne,Warszawa_Chmielna
+68,SMASH BURGER,310,g,46.99,Menu główne,Warszawa_Chmielna
+69,PHILLY CHEESESTEAK BURGER,600,g,59.99,Menu główne,Warszawa_Chmielna
+70,REUBEN SANDWICH,520,g,52.99,Menu główne,Warszawa_Chmielna
+71,KOREAN FRIED CHICKEN BURGER,550,g,47.99,Menu główne,Warszawa_Chmielna
+72,MARGHERITA,38,cm,34.99,Menu główne,Warszawa_Chmielna
+73,TARTUFO & SWEET POTATO CHIPS,38,cm,38.99,Menu główne,Warszawa_Chmielna
+74,BURRATA & COTTO,38,cm,48.99,Menu główne,Warszawa_Chmielna
+75,NDUJA & CARAMELIZED ONION,38,cm,52.99,Menu główne,Warszawa_Chmielna
+76,TARTUFO & COTTO BIANCA,38,cm,49.99,Menu główne,Warszawa_Chmielna
+77,SALAMI & CHILLI HONEY,38,cm,48.99,Menu główne,Warszawa_Chmielna
+78,KIMCHI PIZZA,38,cm,47.99,Menu główne,Warszawa_Chmielna
+79,PROSCIUTTO CRUDO,38,cm,49.99,Menu główne,Warszawa_Chmielna
+80,QUATTRO FROMAGGI,38,cm,44.99,Menu główne,Warszawa_Chmielna
+81,AïOLI SEASONAL STEAK,450,g,145.99,Menu główne,Warszawa_Chmielna
+82,CLASSIC NY STEAK,450,g,85.99,Menu główne,Warszawa_Chmielna
+83,GREEN PEPPER STEAK,420,g,89.99,Menu główne,Warszawa_Chmielna
+84,SURF & TURF 2.0,525,g,97.99,Menu główne,Warszawa_Chmielna
+85,HACHE STEAK,500,g,75.99,Menu główne,Warszawa_Chmielna
+86,CHICKEN & PESTO MAFALDINE,300,g,46.99,Menu główne,Warszawa_Chmielna
+87,SALVIA BUTTER RAVIOLI,190,g,44.99,Menu główne,Warszawa_Chmielna
+88,GREEN UDON,390,g,42.99,Menu główne,Warszawa_Chmielna
+89,GNOCCHI AL TARTUFO,380,g,39.99,Menu główne,Warszawa_Chmielna
+90,TAGLIOLINI & SHRIMPS,364,g,56.99,Menu główne,Warszawa_Chmielna
+91,CAESAR,620,G,34.99,Menu główne,Warszawa_Chmielna
+92,PASTRAMI SALAD,370,g,45.99,Menu główne,Warszawa_Chmielna
+93,AïOLI BREAKKIE PIZZA,28,cm,32.99,Śniadania,Warszawa_Chmielna
+94,AïOLI BREAKKIE PIZZA VEGE,28,cm,28.99,Śniadania,Warszawa_Chmielna
+95,TRUFFLE SCRAMBLE TOAST,310,g,29.99,Śniadania,Warszawa_Chmielna
+96,TURKISH EGGS,340,g,32.99,Śniadania,Warszawa_Chmielna
+97,BACON SANDWICH,400,g,34.99,Śniadania,Warszawa_Chmielna
+98,ENGLISH BREAKFAST,550,g,38.99,Śniadania,Warszawa_Chmielna
+99,HUEVOS RANCHEROS,430,g,36.99,Śniadania,Warszawa_Chmielna
+100,SALMON TOAST,310,g,42.99,Śniadania,Warszawa_Chmielna
+101,AVOCADO TOAST,330,g,34.99,Śniadania,Warszawa_Chmielna
+102,BENEDICT ALLA CRISPY PROSCIUTTO,315,g,35.99,Śniadania,Warszawa_Chmielna
+103,SYRNIKI VANILLA & RHUBARB,385,g,34.99,Śniadania,Warszawa_Chmielna
+104,AïOLI BEEF TATAR 2.0,350,,45.99,Menu główne,Gdańsk
+105,AïOLI VEGE TATAR,330,g,37.99,Menu główne,Gdańsk
+106,SWEET POTATO CHIPS,125,g,29.99,Menu główne,Gdańsk
+107,ROASTED CABBAGE,300,g,32.99,Menu główne,Gdańsk
+108,TEMPURA CRISPY WINGS,450,g,39.99,Menu główne,Gdańsk
+109,LOADED FRIES & BEEF BITES,225,g,42.99,Menu główne,Gdańsk
+110,BLACK GARLIC SHRIMPS,220,g,52.99,Menu główne,Gdańsk
+111,BUTTER WINE SHRIMPS,220,g,49.99,Menu główne,Gdańsk
+112,KATAIFI SHRIMPS,230,g,52.99,Menu główne,Gdańsk
+113,AïOLI SHARING MEAT,600,g,79.99,Menu główne,Gdańsk
+114,AïOLI SHARING VEGE,540,g,59.99,Menu główne,Gdańsk
+115,AïOLI SHARING SEAFOOD,570,g,129.99,Menu główne,Gdańsk
+116,CREMA DI POMODORO,450,g,22.99,Menu główne,Gdańsk
+117,ZUPA DNIA,450,ml,22.99,Menu główne,Gdańsk
+118,AïOLI BURGER,520,g,49.99,Menu główne,Gdańsk
+119,SMASH BURGER,310,g,46.99,Menu główne,Gdańsk
+120,PHILLY CHEESESTEAK BURGER,600,g,59.99,Menu główne,Gdańsk
+121,REUBEN SANDWICH,520,g,52.99,Menu główne,Gdańsk
+122,KOREAN FRIED CHICKEN BURGER,550,g,47.99,Menu główne,Gdańsk
+123,MARGHERITA,38,cm,34.99,Menu główne,Gdańsk
+124,TARTUFO & SWEET POTATO CHIPS,38,cm,38.99,Menu główne,Gdańsk
+125,BURRATA & COTTO,38,cm,48.99,Menu główne,Gdańsk
+126,NDUJA & CARAMELIZED ONION,38,cm,52.99,Menu główne,Gdańsk
+127,TARTUFO & COTTO BIANCA,38,cm,49.99,Menu główne,Gdańsk
+128,SALAMI & CHILLI HONEY,38,cm,48.99,Menu główne,Gdańsk
+129,KIMCHI PIZZA,38,cm,47.99,Menu główne,Gdańsk
+130,PROSCIUTTO CRUDO,38,cm,49.99,Menu główne,Gdańsk
+131,QUATTRO FROMAGGI,38,cm,44.99,Menu główne,Gdańsk
+132,AïOLI SEASONAL STEAK,450,g,95.99,Menu główne,Gdańsk
+133,CLASSIC NY STEAK,450,g,85.99,Menu główne,Gdańsk
+134,GREEN PEPPER STEAK,420,g,89.99,Menu główne,Gdańsk
+135,SURF & TURF 2.0,525,g,97.99,Menu główne,Gdańsk
+136,CHICKEN & PESTO MAFALDINE,300,g,46.99,Menu główne,Gdańsk
+137,SALVIA BUTTER RAVIOLI,190,g,44.99,Menu główne,Gdańsk
+138,GREEN UDON,390,g,42.99,Menu główne,Gdańsk
+139,GNOCCHI AL TARTUFO,380,g,39.99,Menu główne,Gdańsk
+140,TAGLIOLINI & SHRIMPS,364,g,56.99,Menu główne,Gdańsk
+141,CAESAR,620,G,34.99,Menu główne,Gdańsk
+142,PASTRAMI SALAD,370,g,45.99,Menu główne,Gdańsk
+143,AïOLI BREAKKIE PIZZA,28,cm,32.99,Śniadania,Gdańsk
+144,AïOLI BREAKKIE PIZZA VEGE,28,cm,28.99,Śniadania,Gdańsk
+145,TRUFFLE SCRAMBLE TOAST,310,g,29.99,Śniadania,Gdańsk
+146,TURKISH EGGS,340,g,32.99,Śniadania,Gdańsk
+147,BACON SANDWICH,400,g,34.99,Śniadania,Gdańsk
+148,ENGLISH BREAKFAST,550,g,38.99,Śniadania,Gdańsk
+149,HUEVOS RANCHEROS,430,g,36.99,Śniadania,Gdańsk
+150,SALMON TOAST,310,g,42.99,Śniadania,Gdańsk
+151,AVOCADO TOAST,330,g,34.99,Śniadania,Gdańsk
+152,BENEDICT ALLA CRISPY PROSCIUTTO,315,g,35.99,Śniadania,Gdańsk
+153,SYRNIKI VANILLA & RHUBARB,385,g,34.99,Śniadania,Gdańsk
+154,AïOLI BEEF TATAR 2.0,350,,45.99,Menu główne,Katowice
+155,AïOLI VEGE TATAR,330,g,37.99,Menu główne,Katowice
+156,SWEET POTATO CHIPS,125,g,29.99,Menu główne,Katowice
+157,ROASTED CABBAGE,300,g,32.99,Menu główne,Katowice
+158,TEMPURA CRISPY WINGS,450,g,39.99,Menu główne,Katowice
+159,LOADED FRIES & BEEF BITES,225,g,42.99,Menu główne,Katowice
+160,BLACK GARLIC SHRIMPS,220,g,52.99,Menu główne,Katowice
+161,BUTTER WINE SHRIMPS,220,g,49.99,Menu główne,Katowice
+162,KATAIFI SHRIMPS,230,g,52.99,Menu główne,Katowice
+163,AïOLI SHARING MEAT,600,g,79.99,Menu główne,Katowice
+164,AïOLI SHARING VEGE,540,g,59.99,Menu główne,Katowice
+165,AïOLI SHARING SEAFOOD,570,g,129.99,Menu główne,Katowice
+166,CREMA DI POMODORO,450,g,22.99,Menu główne,Katowice
+167,ZUPA DNIA,450,ml,22.99,Menu główne,Katowice
+168,AïOLI BURGER,520,g,49.99,Menu główne,Katowice
+169,SMASH BURGER,310,g,46.99,Menu główne,Katowice
+170,PHILLY CHEESESTEAK BURGER,600,g,59.99,Menu główne,Katowice
+171,REUBEN SANDWICH,520,g,52.99,Menu główne,Katowice
+172,KOREAN FRIED CHICKEN BURGER,550,g,47.99,Menu główne,Katowice
+173,MARGHERITA,38,cm,34.99,Menu główne,Katowice
+174,TARTUFO & SWEET POTATO CHIPS,38,cm,38.99,Menu główne,Katowice
+175,BURRATA & COTTO,38,cm,48.99,Menu główne,Katowice
+176,NDUJA & CARAMELIZED ONION,38,cm,52.99,Menu główne,Katowice
+177,TARTUFO & COTTO BIANCA,38,cm,49.99,Menu główne,Katowice
+178,SALAMI & CHILLI HONEY,38,cm,48.99,Menu główne,Katowice
+179,KIMCHI PIZZA,38,cm,47.99,Menu główne,Katowice
+180,PROSCIUTTO CRUDO,38,cm,49.99,Menu główne,Katowice
+181,QUATTRO FROMAGGI,38,cm,44.99,Menu główne,Katowice
+182,AïOLI SEASONAL STEAK,450,g,145.99,Menu główne,Katowice
+183,CLASSIC NY STEAK,450,g,85.99,Menu główne,Katowice
+184,GREEN PEPPER STEAK,420,g,89.99,Menu główne,Katowice
+185,SURF & TURF 2.0,525,g,97.99,Menu główne,Katowice
+186,HACHE STEAK,500,g,75.99,Menu główne,Katowice
+187,CHICKEN & PESTO MAFALDINE,300,g,46.99,Menu główne,Katowice
+188,SALVIA BUTTER RAVIOLI,190,g,44.99,Menu główne,Katowice
+189,GREEN UDON,390,g,42.99,Menu główne,Katowice
+190,GNOCCHI AL TARTUFO,380,g,39.99,Menu główne,Katowice
+191,TAGLIOLINI & SHRIMPS,364,g,56.99,Menu główne,Katowice
+192,CAESAR,620,G,34.99,Menu główne,Katowice
+193,PASTRAMI SALAD,370,g,45.99,Menu główne,Katowice
+194,AïOLI BREAKKIE PIZZA,28,cm,32.99,Śniadania,Katowice
+195,AïOLI BREAKKIE PIZZA VEGE,28,cm,28.99,Śniadania,Katowice
+196,TRUFFLE SCRAMBLE TOAST,310,g,29.99,Śniadania,Katowice
+197,TURKISH EGGS,340,g,32.99,Śniadania,Katowice
+198,BACON SANDWICH,400,g,34.99,Śniadania,Katowice
+199,ENGLISH BREAKFAST,550,g,38.99,Śniadania,Katowice
+200,HUEVOS RANCHEROS,430,g,36.99,Śniadania,Katowice
+201,SALMON TOAST,310,g,42.99,Śniadania,Katowice
+202,AVOCADO TOAST,330,g,34.99,Śniadania,Katowice
+203,BENEDICT ALLA CRISPY PROSCIUTTO,315,g,35.99,Śniadania,Katowice
+204,SYRNIKI VANILLA & RHUBARB,385,g,34.99,Śniadania,Katowice
